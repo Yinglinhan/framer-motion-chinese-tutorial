@@ -38,4 +38,4 @@ Framer-motion的中文文档教程 ｜React生态下最好的交互动效库
 
 [JavaScript高手之路全能课](https://www.bilibili.com/cheese/play/ss1226)
 
-![head.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/78b18de167cf4c17991be1cf2ed06407~tplv-k3u1fbpfcp-watermark.image?)
+![head.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8596e512fee844d398829f17acab82af~tplv-k3u1fbpfcp-watermark.image?)
