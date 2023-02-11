@@ -35,4 +35,4 @@ Framer-motion的中文文档教程 ｜React生态下最好的交互动效库
 # 关于我的JS课程
 如果你正好想学习JS或者想把JS学的扎实一些
 可以看看我的这个课程
-[JavaScript高手之路全能课 ]([https://www.framer.com](https://www.bilibili.com/cheese/play/ss1226))
+[JavaScript高手之路全能课](https://www.bilibili.com/cheese/play/ss1226)
