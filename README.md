@@ -26,10 +26,13 @@ Framer-motion的中文文档教程 ｜React生态下最好的交互动效库
 
 
 
-
-
-
 # Framer是做什么的
 是一个网页版跨平台的高保真原型工具/无代码/低代码建站工具，我有很多网站都是通过它来构建的。
 
 [Framer官网](https://www.framer.com)
+
+
+# 关于我的JS课程
+如果你正好想学习JS或者想把JS学的扎实一些
+可以看看我的这个课程
+[JavaScript高手之路全能课 ]([https://www.framer.com](https://www.bilibili.com/cheese/play/ss1226))
